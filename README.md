@@ -14,3 +14,5 @@ Atvēršana: atver `index.html` interneta pārlūkā no projekta mapes.
 - Spēles laukums ir centrēts un pielāgojas arī šauram pārlūka logam.
 - Pārbaudīts: attēls, skaņa un punktu skaitītājs (3 klikšķi = 3 punkti) darbojas.
 - Klasesbiedra atsauksme un uzlabojums: palielināju pogas fonta izmēru ērtākai pamanīšanai.
+
+pēc klasesbiedra pārbaudes uzlaboju mājaslapas fonta krāsas.
